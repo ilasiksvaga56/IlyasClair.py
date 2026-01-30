@@ -1,0 +1,13 @@
+app = "clair-ai-bot-IlasikSvaga"  # ← ЗАМЕНИ "ilisak" на своё имя (латиница, без пробелов)
+primary_region = "fra"  # Оставить как есть (Франкфурт)
+
+[build]
+  builder = "paketobuildpacks/builder:base"
+
+[env]
+  # Токены будут через fly secrets set
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 256
