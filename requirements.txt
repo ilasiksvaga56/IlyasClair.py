@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==20.7
+mistralai
+duckduckgo-search
+requests
+python-dotenv
