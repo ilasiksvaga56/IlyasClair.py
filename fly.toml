@@ -1,4 +1,4 @@
-app = "clair-bot-ilasik-svaga"  # ← ЗАМЕНИ "ilisak" на своё имя (латиница, без пробелов)
+app = "clair-bot-ilasik-56942"  # ← ЗАМЕНИ "ilisak" на своё имя (латиница, без пробелов)
 primary_region = "fra"  # Оставить как есть (Франкфурт)
 
 [build]
